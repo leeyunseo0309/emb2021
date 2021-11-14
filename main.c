@@ -6,6 +6,8 @@ int main(void)
 	printf("Chief name is [leeyunseo]\n");
 	printMyName1();
 	printMyName2();
+	
+	lys();
 
     return 0;
 }
