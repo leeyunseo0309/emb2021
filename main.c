@@ -8,6 +8,7 @@ int main(void)
 	printMyName2();
 	
 	lys();
+	jsh();
 
     return 0;
 }
