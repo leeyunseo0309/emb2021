@@ -8,5 +8,5 @@ int printMyName1(void)
 int lys(void)
 {
 	printf("new function\n");
-	return 0;
+	return 1;
 }
